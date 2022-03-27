@@ -1,2 +1,3 @@
 # go-generic
-go through tutorial: getting started with generics
+
+Follow the [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics).
